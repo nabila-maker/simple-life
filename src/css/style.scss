@@ -1,0 +1,44 @@
+
+*{
+    box-sizing: 0;
+    margin: 0;
+    padding: 0;
+}
+a {
+    /* color: var(--color-primary); */
+    word-break: normal;
+}
+a:hover {
+    color: black;
+}
+h2{
+    font-size: 1.4rem;
+}
+
+.footer{
+    .footer-wordpress{
+       display: flex; 
+       margin: auto;
+       gap: 15px;
+    }
+    a:hover {
+        color: pink;
+    }
+  
+}
+.global-wrapper{
+
+img {
+    border-style: none;
+    max-width: 120px;
+    border-radius: 50px;
+  }
+
+}
+main{
+    h1{
+        font-size: 1.5rem;
+    }
+    }
+    
+   
